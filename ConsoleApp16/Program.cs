@@ -11,6 +11,11 @@ namespace ConsoleApp16
         static void Main(string[] args)
         {
             Console.WriteLine("Ok");
+            Console.WriteLine("Ok");
+            Console.WriteLine("Ok");
+            Console.WriteLine("Ok");
+
+
         }
     }
 }
